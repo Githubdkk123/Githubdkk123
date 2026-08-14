@@ -5,12 +5,12 @@
 I am a Geoinformatics professional interested in GIS, Remote Sensing, Web GIS, Spatial Data Analysis and Geospatial Application Development. GIS Professional with 3 years of experience in GIS, Geospatial Data Management, Spatial Analysis, and Team Leadership. Experienced in managing geospatial datasets, data visualization, spatial analysis, reporting, and coordinating project workflows. Strong interest in Web GIS and GIS Automation, with a focus on developing efficient workflows and innovative geospatial solutions. Skilled in team coordination, task management, quality control, and timely project delivery. Seeking to leverage my GIS expertise and leadership skills to support data-driven decision-making and deliver accurate, efficient, and actionable geospatial solutions.
 
 ## 📚 EDUCATIONS
-B.SC HONOURS IN GEOGRAPHY 
+### B.SC HONOURS IN GEOGRAPHY 
 - SITANANDA COLLEGE
 - Marks - 84.80% 
 - 2018-2021
 
-M.Sc in REMOTE SENSING & GIS  
+### M.Sc in REMOTE SENSING & GIS  
 - VIDYASAGAR UNIVERSITY
 - Marks - 81.42% 
 - 2021-2023
