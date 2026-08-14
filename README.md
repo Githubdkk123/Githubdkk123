@@ -6,7 +6,7 @@ I am a Geoinformatics professional interested in GIS, Remote Sensing, Web GIS, S
 
 ## 📚 EDUCATIONS
 B.SC HONOURS IN GEOGRAPHY 
--SITANANDA COLLEGE
+- SITANANDA COLLEGE
 - Marks - 84.80% 
 - 2018-2021
 
