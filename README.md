@@ -27,10 +27,10 @@ I am a Geoinformatics professional interested in GIS, Remote Sensing, Web GIS, S
 
 ### 🌍 WEB GIS APPLIATION PROECTS:
 
-Vectro Web GIS — Interactive Geospatial Data Processing Platform
-Developed a comprehensive Web GIS platform integrating SHP/KML visualization, spatial processing, geotagging, spatial analysis, topology validation and correction, map layout generation, and geospatial data management. Technology Stack: JavaScript | HTML5 | CSS3 | OpenLayers | GeoJSON | Node| React.js | Node.js | GeoJSON 
-Live Web Application: https://vectro-web-gis.vercel.app
-GitHub Repository: https://vectro-web-gis.vercel.app https://github.com/Githubdkk123/vectro-web-gis
+- Vectro Web GIS — Interactive Geospatial Data Processing Platform
+- Developed a comprehensive Web GIS platform integrating SHP/KML visualization, spatial processing, geotagging, spatial analysis, topology validation and correction, map layout generation, and geospatial data management. - Technology Stack: JavaScript | HTML5 | CSS3 | OpenLayers | GeoJSON | Node| React.js | Node.js | GeoJSON 
+- Live Web Application: https://vectro-web-gis.vercel.app
+- GitHub Repository: https://github.com/Githubdkk123/vectro-web-gis
 
 ## 📚 Currently Learning
 
